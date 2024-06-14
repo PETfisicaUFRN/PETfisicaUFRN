@@ -3,10 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PETfisicaUFRN&label=Profile%20views&color=0e75b6&style=flat" alt="PETfisicaUFRN" /> </p>
 
-- 🔭 I’m currently working in the area Molecular Dynamics. 
-- 🌱 I’m currently learning about mechanical and tribological properties of graphene sheets.
-- 👨‍💻 Some of the projects I take part in are available at: https://github.com/PETfisicaUFRN/PET.py
-- 📫 How to reach me: jose.arthur.016@ufrn.edu.br 
-- 📄 Know about my experiences: http://lattes.cnpq.br/6298203041911259
+O Programa de Educação Tutorial (PET) é um programa do Governo Federal Brasileiro de estímulo à pesquisa e extensão universitárias no nível de graduação. O programa é subordinado à Secretaria de Ensino Superior (SESu) do Ministério da Educação (MEC). Nós possuímos vários projetos em atividade, como: EDUCAPET, OLIMPET, PET.py, entre outros. Caso queira conhecer algum desses projetos acesse nosso site principal: https://petfisica.home.blog
+ 
+Este perfil foi criado justamente por causa de um dos nossos projetos, o PET.py, um projeto em que apresentamos a solução de problemas físicos famosos usando os conhecimentos adquiridos na disciplina de Física Computacional usando a linguagem de programação Python. Cada um dos problemas foi resolvido e apresentado por um aluno petiano, tais trabalhos estão disponíveis no nosso repositório ![PET.py](https://github.com/PETfisicaUFRN/PET.py/tree/main), onde todos foram escritos usando o Jupyter Notebook.
 
+- 📄 Conheça nosso site principal: https://petfisica.home.blog
+- 👨‍💻 Conheça nosso projeto PET.py: https://github.com/PETfisicaUFRN/PET.py
+- 📫 Como nos contatar: petfisicaufrn@gmail.com
+- 👯 Nosso instagram: https://www.instagram.com/petfisicaufrn/
 
