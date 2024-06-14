@@ -1,4 +1,4 @@
-<h1 align="center">  Olá 👋, Seja bem-vindo </h1>
+<h1 align="center">  Olá 👋, seja bem-vindo! </h1>
 <h3 align="center"> Olá, nós somos o PET - Física da Universidade Federal do Rio Grande do Norte (UFRN). </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PETfisicaUFRN&label=Profile%20views&color=0e75b6&style=flat" alt="PETfisicaUFRN" /> </p>
